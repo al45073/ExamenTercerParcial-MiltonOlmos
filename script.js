@@ -12,6 +12,8 @@
         'bowser':  'imagenes/bowser.jpg',
         'toad':  'imagenes/toad.jpg',
         'peach':  'imagenes/peach.jpg',
+        'yoshi':  'imagenes/yoshi.jpg',
+        'luigi':  'imagenes/luigi.jpg'
     };
 
     function updateInterface() {
